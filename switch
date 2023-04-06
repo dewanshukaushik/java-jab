@@ -1,0 +1,34 @@
+
+public class practice {
+
+
+
+	public static void main(String[] args) {
+		
+//		String value="sunday";
+//		String result=""; 
+//		result=switch(value) { 
+//		case "sunday","saturday": yield "holiday";
+//		case "monday","tuesday","wednesday","thursday","friday": yield"working";
+//		default: yield"not a day";
+//		};
+//		System.out.println(result);
+		
+		
+	  }	
+	}
+		
+//		String value="monday";
+//		String result=""; 
+//		result=switch(value) { 
+//		case "sunday","saturday"->"holiday";
+//		case "monday","tuesday","wednesday","thursday","friday"->"working";
+//		default->"not a day";
+//		};
+//		System.out.println(result);
+//		}
+//		
+//
+//	}
+
+
